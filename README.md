@@ -1,1 +1,1 @@
-# git-github
+# Git & GitHub Introduction
