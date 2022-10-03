@@ -16,6 +16,7 @@ $ git init
 ```
 
 2. ***Git remote add origin***
+    
     This command is used to link the remote repository to our local repository.
 
 ```
@@ -23,6 +24,7 @@ $ git remote add origin <your remote repository link>
 ```
 
 3. ***Git Branch***
+    
     This command is used to list all the branches in our local system.
 
 ```
