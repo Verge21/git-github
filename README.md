@@ -2,6 +2,9 @@
 
 This is the official Repository for the Event of Git & GitHub introduction Conducted by the Verge Team in SRM University on 1st October 2022 (Saturday).
 
+## Git Introduction
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+
 ## Git Basic Commands
 
 1. ***Git init***
