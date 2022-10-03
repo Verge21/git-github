@@ -31,7 +31,7 @@ $ git remote add origin <your remote repository link>
 $ git branch
 ```
 
-Note: **-r** flag is used to fetch the branches of our remote repository.
+***Note:*** **-r** flag is used to fetch the branches of our remote repository.
 
 ```
 $ git branch -r
@@ -44,3 +44,14 @@ $ git branch -r
 ```
 $ git checkout <Your Branch name>
 ```
+
+5. ***Git Add***
+
+6. ***Git Commit***
+
+7. ***Git Push***
+
+8. ***Git Pull***
+
+Stay tuned our team is working on this.
+with you all shortly.
