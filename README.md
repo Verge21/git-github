@@ -47,11 +47,34 @@ $ git checkout <Your Branch name>
 
 5. ***Git Add***
 
+    To add all the files in the stage area
+```
+$ git add .
+```
+
+To add a single file in the stage area.
+
+```
+$ git add <your file name.extenion>
+```
+
 6. ***Git Commit***
+
+```
+$ git commit -m "<your message>"
+```
 
 7. ***Git Push***
 
+```
+$ git push
+```
+
 8. ***Git Pull***
+
+```
+$ git pull
+```
 
 Stay tuned our team is working on this.
 with you all shortly.
